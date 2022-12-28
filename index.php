@@ -16,7 +16,7 @@ include_once "config.php";
 
 <body>
   <div class="row text-center">
-    <h1>Modelo de site de roupas!</h1>
+    <h1>Clothing.com</h1>
   </div>
   <?php include_once path('templates/navbar_central.php'); ?>
 </body>
